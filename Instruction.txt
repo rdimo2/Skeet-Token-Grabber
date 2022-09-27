@@ -1,2 +1,0 @@
-1. run the built.bat  file
-2. run the builder.py file and answer for questions!
