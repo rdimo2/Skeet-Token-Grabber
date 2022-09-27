@@ -1,0 +1,2 @@
+1. run "run this first" file 
+2. run build.bat file and answer for questions and scam people
