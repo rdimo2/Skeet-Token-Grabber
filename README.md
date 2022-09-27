@@ -1,9 +1,9 @@
 <h1 align="center">
-Skeet Token Grabber😈
+  Luna Token Grabber😈
 </h1>
 
 <h2 align="center">
-  Skeet Token Grabber is a tool that steals discord tokens and other information and sends it to you webhook!
+  Luna Token Grabber is a tool that steals discord tokens and other information and sends it to you webhook!
 </h2>
 
 <div align="center">
