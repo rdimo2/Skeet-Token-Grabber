@@ -1,5 +1,5 @@
 
-# Total-Boss version 3.0 password extract from all browsers!! pls leave me a star🌟 for my hard work
+# Skeet version 3.0 password extract from all browsers!! pls leave me a star🌟 for my hard work
 # I know its slow as f**k but i cant fix it now - grabber takes 1 minute to steal all stuff (best way is compiling it to executable)
 
 ###### 1. Once you've downloaded the files extract the folder so it's no longer a .zip file.
